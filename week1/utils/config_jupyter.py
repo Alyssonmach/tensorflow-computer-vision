@@ -1,4 +1,6 @@
-
+import matplotlib.pyplot as plt
+import tensorflow as tf
+import os
 
 # Matplotlib config
 plt.rc('image', cmap='gray')
