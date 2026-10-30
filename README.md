@@ -1,7 +1,5 @@
 # Computer Vision with TensorFlow
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 A collection of hands-on Jupyter notebooks for learning computer vision with TensorFlow and Keras. The material is organized into three weeks and covers image classification, object detection, and image segmentation through labs and programming assignments.
 
 ## Course map
@@ -50,7 +48,3 @@ week1/  Transfer learning and object localization
 week2/  Object detection
 week3/  Image segmentation
 ```
-
-## License
-
-This repository is distributed under the [MIT License](LICENSE).
